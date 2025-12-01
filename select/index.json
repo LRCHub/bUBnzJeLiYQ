@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Don't you cry",
+  "base_artist": "MICO、vaultboy",
+  "createdAt": "2025-12-01T06:22:49.884099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Woman Don't You Cry for Me",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/01_Woman_Don't_You_Cry_for_Me_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Woman Don't You Cry for Me (Early Take)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/02_Woman_Don't_You_Cry_for_Me_(Early_Take)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Woman Don't You Cry For Me (Session Outtakes And Jams / Take 5)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/03_Woman_Don't_You_Cry_For_Me_(Session_Outtakes_And_Jams___Take_5)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Woman Don’t You Cry for Me (session outtakes and jams ⁄ take 5)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/04_Woman_Don’t_You_Cry_for_Me_(session_outtakes_and_jams_⁄_take_5)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't You Cry",
+      "artist": "Kamelot",
+      "has_synced": false,
+      "path": "select/05_Don't_You_Cry_Kamelot.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't You Cry",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/06_Don't_You_Cry_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Why Don't You Cry",
+      "artist": "WILLOW",
+      "has_synced": false,
+      "path": "select/07_Why_Don't_You_Cry_WILLOW.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't You Cry",
+      "artist": "David Coverdale",
+      "has_synced": false,
+      "path": "select/08_Don't_You_Cry_David_Coverdale.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mama Don't You Cry",
+      "artist": "Steelheart",
+      "has_synced": false,
+      "path": "select/09_Mama_Don't_You_Cry_Steelheart.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't You Cry",
+      "artist": "L.A. Guns",
+      "has_synced": false,
+      "path": "select/10_Don't_You_Cry_L.A._Guns.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don’t You Cry Baby",
+      "artist": "Ray Charles",
+      "has_synced": false,
+      "path": "select/11_Don’t_You_Cry_Baby_Ray_Charles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't You Cry",
+      "artist": "David Coverdale",
+      "has_synced": false,
+      "path": "select/12_Don't_You_Cry_David_Coverdale.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't You Cry",
+      "artist": "Dario G",
+      "has_synced": false,
+      "path": "select/13_Don't_You_Cry_Dario_G.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Woman Don’t You Cry For Me (Early Take)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/14_Woman_Don’t_You_Cry_For_Me_(Early_Take)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baby Don't You Cry No More",
+      "artist": "Frida",
+      "has_synced": true,
+      "path": "select/15_Baby_Don't_You_Cry_No_More_Frida.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Why Don't You Cry",
+      "artist": "Current Joys",
+      "has_synced": true,
+      "path": "select/16_Why_Don't_You_Cry_Current_Joys.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Woman Don't You Cry For Me (2004 Remaster)",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/17_Woman_Don't_You_Cry_For_Me_(2004_Remaster)_George_Harrison.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't You Cry",
+      "artist": "浅井 ひろみ",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_You_Cry_浅井_ひろみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Don't You Cry ～TVで観た遠い国の子供達へ～",
+      "artist": "浅井 ひろみ",
+      "has_synced": false,
+      "path": "select/pl_02_Don't_You_Cry_~TVで観た遠い国の子供達へ~_浅井_ひろみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Don't You Cry for Me (Acoustic)",
+      "artist": "浅井 ひろみ",
+      "has_synced": false,
+      "path": "select/pl_03_Don't_You_Cry_for_Me_(Acoustic)_浅井_ひろみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Don't you cry",
+      "artist": "浅井 ひろみ",
+      "has_synced": false,
+      "path": "select/pl_04_Don't_you_cry_浅井_ひろみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Don't you cry",
+      "artist": "浅井 ひろみ",
+      "has_synced": false,
+      "path": "select/pl_05_Don't_you_cry_浅井_ひろみ.txt"
+    }
+  ]
+}
